@@ -3,7 +3,7 @@
 
 개발 기간: 2023.11.27~2023.12.07 
 
-개발 툴: <img src="https://img.shields.io/badge/blender-#E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+개발 툴: <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white">
 
 ## 🔍 미리 보기
 - [프로젝트 소개](#프로젝트-소개)
