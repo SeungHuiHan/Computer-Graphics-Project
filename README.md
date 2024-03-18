@@ -60,7 +60,8 @@
 
 ## ▶ 구현 과정
 
-* 노트북 그래픽카드 버전이 오래되어 blender 2.8을 사용하였습니다.
+ 노트북 그래픽카드 버전이 오래되어 blender 2.8을 사용하였습니다.
+
 
 1. 3D 모델
    
@@ -70,7 +71,7 @@
 - 솔리드 렌더링
 - 형태 다듬기
 
-  
+
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/2fde755b-06a0-4c85-a06a-838f1a9b81c4)
 - Edit mode
 - 와이어 프레임
@@ -85,7 +86,9 @@
 - Material을 이용해 재질 입히기
 
 
-3. 리깅 (뼈대 넣기)
+
+
+2. 리깅 (뼈대 넣기)
    
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/89262d6e-2f5a-47e3-9bb0-4b1df44a972f)
 - Shading
@@ -97,7 +100,9 @@
 - 리깅 주요 요소: 1. 뼈대 2. 관절 및 제어기 3. 스킨 4. 웨이팅 5. 애니메이션 컨트롤러
 
 
-5. 애니메이션
+
+
+3. 애니메이션
    
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/508bdfd4-32b5-4374-9729-45b6c068c9e0)
 - 타임라인 열기
@@ -105,7 +110,9 @@
 - 위치 이동 후  다시 키프레임 설정
 
 
-7. 카메라 이동
+
+
+4. 카메라 이동
    
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/34877a2a-6c90-49a5-b076-e1f996cc3cb6)
 - 카메라 위치에서 본 화면(투영)
@@ -115,12 +122,16 @@
 - 카메라, light 이동
 
 
-9. 결과(사진)
+
+
+5. 결과(사진)
 
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/3b280e3f-367a-4dae-8620-0e781f0b69c1)
 
 
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/7918e6c8-17ed-46ce-8728-72962fca2a6b)
+
+
 
 
 ## 💣 프로젝트를 하며 느낀점
