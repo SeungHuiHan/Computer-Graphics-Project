@@ -64,7 +64,8 @@
 
 1. 3D 모델
    
-![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/0776bbb1-dddc-4428-8334-1e0254288b4d)
+![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/96c3e620-07d3-4525-85dd-f84288508dc0)
+
 - Object mode
 - 솔리드 렌더링
 - 형태 다듬기
@@ -76,19 +77,21 @@
   
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/8c287e09-6b6d-4588-862d-befec283b8d8)
 - 여러 개의 오브젝트 Join
-- 
+
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/3ac4cafb-6d37-4bcf-86df-0d0260900cc6)
 - Material을 이용해 재질 입히기
+
 
 3. 리깅 (뼈대 넣기)
    
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/89262d6e-2f5a-47e3-9bb0-4b1df44a972f)
 - Shading
-- 
+
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/b1e673ea-faf7-42e8-bef8-65e5bfea0dd2)
 - Texture Mapping
 - 3D 캐릭터 모델에 뼈대(bones)와 관련된 제어 시스템을 적용하여 애니메이션을 할 수 있도록 만드는 과정
 - 리깅 주요 요소: 1. 뼈대 2. 관절 및 제어기 3. 스킨 4. 웨이팅 5. 애니메이션 컨트롤러
+
 
 5. 애니메이션
    
@@ -98,11 +101,16 @@
 - 위치 이동 후  다시 키프레임 설정
 
 7. 카메라 이동
+   
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/34877a2a-6c90-49a5-b076-e1f996cc3cb6)
 - 카메라 위치에서 본 화면(투영)
-![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/c10deb72-522f-480b-afda-12c3bad61e7f)- 카메라, light 이동
+  
+![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/c10deb72-522f-480b-afda-12c3bad61e7f)
+- 카메라, light 이동
+
 
 9. 결과(사진)
+
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/3b280e3f-367a-4dae-8620-0e781f0b69c1)
 
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/7918e6c8-17ed-46ce-8728-72962fca2a6b)
