@@ -69,14 +69,17 @@
 - Object mode
 - 솔리드 렌더링
 - 형태 다듬기
+
   
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/2fde755b-06a0-4c85-a06a-838f1a9b81c4)
 - Edit mode
 - 와이어 프레임
 - 드로잉 속도가 빠름
+
   
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/8c287e09-6b6d-4588-862d-befec283b8d8)
 - 여러 개의 오브젝트 Join
+
 
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/3ac4cafb-6d37-4bcf-86df-0d0260900cc6)
 - Material을 이용해 재질 입히기
@@ -86,6 +89,7 @@
    
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/89262d6e-2f5a-47e3-9bb0-4b1df44a972f)
 - Shading
+
 
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/b1e673ea-faf7-42e8-bef8-65e5bfea0dd2)
 - Texture Mapping
@@ -100,10 +104,12 @@
 - 현재 상태를 키프레임으로 설정
 - 위치 이동 후  다시 키프레임 설정
 
+
 7. 카메라 이동
    
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/34877a2a-6c90-49a5-b076-e1f996cc3cb6)
 - 카메라 위치에서 본 화면(투영)
+
   
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/c10deb72-522f-480b-afda-12c3bad61e7f)
 - 카메라, light 이동
@@ -112,6 +118,7 @@
 9. 결과(사진)
 
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/3b280e3f-367a-4dae-8620-0e781f0b69c1)
+
 
 ![image](https://github.com/SeungHuiHan/Computer-Graphics-Project/assets/98226400/7918e6c8-17ed-46ce-8728-72962fca2a6b)
 
